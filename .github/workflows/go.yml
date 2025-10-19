@@ -1,8 +1,8 @@
-name: Go
+name: new_workflow
 
 on:
   push:
-    branches: ["main"]
+    branches: ["new_workflow"]
 
 jobs:
 
